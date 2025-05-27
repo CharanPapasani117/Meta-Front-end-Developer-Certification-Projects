@@ -1,5 +1,7 @@
 These all the Projects I've completed as a Part of My Meta Front-End Developer Professional Certificate.
+
 where i've completed these following courses:
+
 1.Introduction to Front-End Development
 2.Programming with JavaScript
 3.Version Control
