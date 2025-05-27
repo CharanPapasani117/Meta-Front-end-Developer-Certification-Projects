@@ -1,4 +1,4 @@
-These all the Projects I've completed as a Part of My Meta Front-End Developer Professional Certificate.
+These all the Projects I've completed as a Part of My "Meta Front-End Developer Professional Certificate".
 
 where i've completed these following courses:
 
