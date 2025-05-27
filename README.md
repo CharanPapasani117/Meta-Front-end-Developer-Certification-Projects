@@ -9,5 +9,5 @@ where i've completed these following courses:
                   5.React Basics
                   6.Advanced React
                   7.Principles of UX/UI Design
-                  8.Front-End Developer Capstone
+                  8.Front-End Developer Capstone (Little Lemon Project)
                   9.Coding Interview Preparation
